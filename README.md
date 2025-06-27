@@ -13,16 +13,18 @@ Exemplos práticos de Design Patterns em JavaScript e TypeScrip.
 
 Cada diretório representa um padrão de projeto:
 
+```text
 design-patterns/
 ├── strategy/
-│ ├── exemplo1.js
-│ └── README.md
+│   ├── exemplo1.js
+│   └── README.md
 ├── facade/
-│ ├── exemplo1.ts
-│ └── README.md
+│   ├── exemplo1.ts
+│   └── README.md
 ├── observer/
-│ ├── exemplo1.js
-│ └── README.md
+│   ├── exemplo1.js
+│   └── README.md
+```
 
 ## 📌 Padrões incluídos até agora
 

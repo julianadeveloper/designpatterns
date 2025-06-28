@@ -5,7 +5,7 @@ class PagamentoCredito extends Pagamento {
     super(valor, gateway);
   }
   calcularTaxa() {
-    return this._valor * 0.03; // Taxa de 2% para pagamento com débito
+    return this._valor * 0.03; // Taxa de 3% para pagamento com débito
   }
   calcularDesconto() {
     return 0;

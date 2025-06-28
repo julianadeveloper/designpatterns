@@ -39,6 +39,18 @@ class Pagamento {
 
 }
 
+//Uso
+const gateway = new GateWay()
+const pedido1 = new PagamentoPix(500, gateway);
+pedido1.executarPagamento();
+
+const pedido2 = new PagamentoDebito(500, gateway);
+pedido2.executarPagamento();
+
+const pedido3 = new PagamentoCredito(500, gateway);
+pedido3.executarPagamento();
+```
+
 export default Pagamento;
 
 ### Benefícios do Template Method

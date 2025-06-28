@@ -8,6 +8,7 @@ export abstract class Pagamento {
   }
 
   protected abstract calcularDesconto(): number;
+  
   public calcularTaxa(): number {
     return 0;
   }

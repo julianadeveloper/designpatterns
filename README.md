@@ -29,3 +29,4 @@ design-patterns/
 ## 📌 Padrões incluídos até agora
 
 - 🔁 **Strategy**
+- 🔁 **TemplateMethod**

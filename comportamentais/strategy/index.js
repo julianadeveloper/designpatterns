@@ -1,5 +1,5 @@
-import FreteComum from "./freteComum.js";
-import FreteExpresso from "./freteExpresso.js";
+import FreteComum from "./frete/freteComum.js";
+import FreteExpresso from "./frete/freteExpresso.js";
 import PedidoEletronicos from "../pedidoEletronicos.js";
 
 const freteComum = new FreteComum();

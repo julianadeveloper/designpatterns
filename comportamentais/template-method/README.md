@@ -49,9 +49,9 @@ pedido2.executarPagamento();
 
 const pedido3 = new PagamentoCredito(500, gateway);
 pedido3.executarPagamento();
+export default Pagamento;
 ```
 
-export default Pagamento;
 
 ### Benefícios do Template Method
 

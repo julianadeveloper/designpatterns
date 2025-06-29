@@ -167,6 +167,6 @@ newsletter.addMessage("Confira nossas promoções de junho!");
 
 
 Referências
-Refactoring Guru - Observer
+[Refactoring Guru - Observer](https://refactoring.guru/design-patterns/observer) 
 
 Wikipedia - Observer Pattern
